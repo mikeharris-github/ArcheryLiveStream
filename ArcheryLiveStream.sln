@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{AC3CA744-F88A-B81B-9CA9-EB5B0D3BD915}") = "ArcheryLiveStream", "Assembly-CSharp.csproj", "{1BA64210-55F3-C2C2-F6F2-9D87EF011E02}"
+EndProject
+Project("{AC3CA744-F88A-B81B-9CA9-EB5B0D3BD915}") = "ArcheryLiveStream", "Assembly-CSharp-Editor.csproj", "{DC20C060-D26F-54C6-B601-2285FFDB79D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BA64210-55F3-C2C2-F6F2-9D87EF011E02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BA64210-55F3-C2C2-F6F2-9D87EF011E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BA64210-55F3-C2C2-F6F2-9D87EF011E02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BA64210-55F3-C2C2-F6F2-9D87EF011E02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC20C060-D26F-54C6-B601-2285FFDB79D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC20C060-D26F-54C6-B601-2285FFDB79D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC20C060-D26F-54C6-B601-2285FFDB79D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC20C060-D26F-54C6-B601-2285FFDB79D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
